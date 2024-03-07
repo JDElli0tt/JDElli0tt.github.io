@@ -9,5 +9,5 @@ featured_image: '/img/posts/01_bloc-jams-angular-1130x864-2x.png'
 project_link: 'https://github.com/JDElli0tt'
 button_icon: 'github'
 button_text: 'Visit Project'
-lead_text: 'A digital music player built using AngularJS'
+lead_text: 'A personal project for collecting data in video games'
 ---
