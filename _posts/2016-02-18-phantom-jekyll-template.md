@@ -9,5 +9,5 @@ featured_image: '/img/posts/04_phantom-jekyll-1130x864-2x.png'
 project_link: 'https://github.com/JDElli0tt'
 button_icon: 'flask'
 button_text: 'Visit Github'
-lead_text: "Visit Github for a complete list of "
+lead_text: "A complete list on Github "
 ---
